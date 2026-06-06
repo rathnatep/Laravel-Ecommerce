@@ -6,41 +6,6 @@ A full-stack clothing e-commerce platform built for the Cambodian market. Custom
 
 ---
 
-## Problem
-
-Small clothing businesses in Cambodia rely heavily on chat-based selling (Facebook Messenger, Telegram), which leads to:
-
-- No structured storefront
-- Manual order tracking
-- No inventory control → overselling
-- Manual payment verification via screenshots
-- No analytics or reporting
-
----
-
-## Solution
-
-PickCloth provides a structured e-commerce system aligned with local shopping and payment behavior.
-
-### Customer Flow
-
-- Browse products by category
-- Add items to cart (session-based)
-- Sign in using phone number
-- Checkout with QR payment (ABA / ACLEDA)
-- Upload payment screenshot
-- Wait for admin approval
-
-### Admin Flow
-
-- Manage products, sizes, and stock
-- Process and approve orders
-- Verify payment screenshots
-- Automatic stock deduction on approval
-- Receive Telegram notifications for payments
-
----
-
 ## Tech Stack
 
 - **Backend:** Laravel 12 (PHP 8.2)
@@ -146,13 +111,20 @@ Deploy via GitHub → Railway auto deployment.
 * PDF invoice generation
 
 ---
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="docs/Filter.png" width="700"/>
+    <img src="docs/productoin.png" width="700"/>
+    <img src="docs/product detail.png" width="700"/>
+    <img src="docs/cart.png" width="700"/>
+  <img src="docs/Register.png" width="700"/>
+    <img src="docs/location.png" width="700"/>
+      <img src="docs/payment.png" width="700"/>
+        <img src="docs/bot_admin.png" width="700"/>
+          <img src="docs/dachboard.png" width="700"/>
+            <img src="docs/approving.png" width="700"/>
+              <img src="docs/invoice.png" width="700"/>
+                <img src="docs/product.png" width="700"/>
+
 </p>
 
 ## License
