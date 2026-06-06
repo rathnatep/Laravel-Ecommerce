@@ -113,7 +113,6 @@ Deploy via GitHub → Railway auto deployment.
 ---
 <p align="center">
   <img src="docs/Filter.png" width="700"/>
-    <img src="docs/productoin.png" width="700"/>
     <img src="docs/product detail.png" width="700"/>
     <img src="docs/cart.png" width="700"/>
   <img src="docs/Register.png" width="700"/>
@@ -123,6 +122,7 @@ Deploy via GitHub → Railway auto deployment.
           <img src="docs/dachboard.png" width="700"/>
             <img src="docs/approving.png" width="700"/>
               <img src="docs/invoice.png" width="700"/>
+                <img src="docs/productoin.png" width="700"/>
                 <img src="docs/product.png" width="700"/>
 
 </p>
